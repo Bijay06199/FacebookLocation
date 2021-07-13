@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FacebookLocation</string>
+    <string name="facebook_app_id">243314880682227</string>
+    <string name="fb_login_protocol_scheme">fb243314880682227</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="track_on_map">Track On Map</string>
+    <string name="track_the_facebook_user">Track The Facebook User</string>
+    <string name="your_basic_information">Your Basic Information</string>
+    <string name="to_download_your_information">To Download Your Information</string>
+</resources>
